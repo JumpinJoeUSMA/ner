@@ -1,0 +1,4 @@
+﻿tokens
+"Chapters 1 to 4 provide an introduction to the main concepts of the HF Transformers library. By the end of this part of the course, you will be familiar with how Transformer models work and will know how to use a model from the Hugging Face Hub, fine-tune it on a dataset, and share your results on the Hub!"
+"Chapters 5 to 8 teach the basics of HF Datasets and HF Tokenizers before diving into classic NLP tasks. By the end of this part, you will be able to tackle the most common NLP problems by yourself."
+"Chapters 9 to 12 go beyond NLP, and explore how Transformer models can be used tackle tasks in speech processing and computer vision. Along the way, you’ll learn how to build and share demos of your models, and optimize them for production environments. By the end of this part, you will be ready to apply HF Transformers to (almost) any machine learning problem!"
